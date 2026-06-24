@@ -1,0 +1,24 @@
+{
+  "name": "fmcg-distro-router-2025",
+  "version": "1.0.0",
+  "description": "Optimal delivery routing for small-scale FMCG distributors",
+  "main": "dist/router.js",
+  "types": "dist/router.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "fmcg",
+    "logistics",
+    "routing",
+    "cvrp",
+    "typescript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
